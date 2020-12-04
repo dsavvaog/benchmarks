@@ -44,8 +44,8 @@
    -_speclibm_: i) 175,15ms ii) 3,503 cpi iii) D-cache 0,060972, I-cache 0,00009, L2 cache 0,999961
 
 
-
-
+!(/images/plot.png)
+Format: ![Alt Text](url)
 
 
 Παρατηρήσεις:
