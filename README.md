@@ -91,7 +91,8 @@ _system.cpu_clk_domain.clock_: 500 ticks οπότε 1000000000000/500=**2GHz**
 
 
 ![Pie Charts](/bzip.png) ![Pie Charts](/mcf.png)
-
+![Pie Charts](/hmmer.png) ![Pie Charts](/sjeng.png)
+![Pie Charts](/lbm.png)
 
 **Βήμα 3ο**
 
